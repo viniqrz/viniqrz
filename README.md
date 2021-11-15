@@ -7,6 +7,7 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 - 🤝 I’m looking to collaborate on data science and deep learning projects. 
 
 ![Vini's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniqrz&hide=stars,issues&theme=prussian)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniqrz)](https://github.com/viniqrz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniqrz&layout=compact&theme=prussian)]
+
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/viniqrz/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/viniciusqrzs/)
