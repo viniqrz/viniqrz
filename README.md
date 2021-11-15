@@ -32,6 +32,6 @@
 </p>  
 
 ![Vini's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniqrz&hide=stars,issues&theme=dracula&line_height=30px)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniqrz&layout=compact&theme=dracula)](https://github.com/viniqrz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniqrz&layout=compact&theme=dracula&card_width=446)](https://github.com/viniqrz)
 
 
