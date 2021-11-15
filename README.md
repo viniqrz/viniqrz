@@ -4,9 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viniqrz&label=Profile%20views&color=0e75b6&style=flat" alt="viniqrz" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/viniqrz/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/viniciusqrzs/)
-</p>
 
 ![Vini's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniqrz&hide=stars&theme=prussian)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniqrz&layout=compact&theme=prussian)](https://github.com/viniqrz)
