@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/viniciusqrzs"/></a>
 </p>  
 
-![Vini's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniqrz&hide=stars&theme=dracula&line_height=25px)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniqrz&layout=compact&theme=dracula&card_width=400)](https://github.com/viniqrz)
+![Vini's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniqrz&hide=stars&theme=dracula&line_height=26px)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniqrz&layout=compact&theme=dracula&card_width=445)](https://github.com/viniqrz)
 
 
