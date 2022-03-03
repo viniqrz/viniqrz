@@ -4,8 +4,8 @@
 
 <p align="left"> 
   I'm a passionate full-stack developer from Brazil. Programming got into my life since my teenage and has never left.
-  I'm currently taking Trybe's 1-year Web Development course and a Typescript bootcamp by a software house.
-  I'm learning Typescript backend development, its architectural patterns and data structures.
+  I'm currently working as a Full-stack Developer in Brazil.
+  Currently learning AWS.
 </p>
 
 <p align="left">
