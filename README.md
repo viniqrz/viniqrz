@@ -8,11 +8,11 @@
 </p>
 
 <p align="left">
-  👾 Languages: <strong>Typescript, Javascript, SQL and Python.</strong>
+  👾 Languages: <strong>Typescript, Java and Python.</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>React, Redux, SASS, Express, TypeORM, Sequelize, Mongoose, SQL and noSQL</strong>
+  💼 Tools: <strong>React, Nest, SQL and MongoDB</strong>
 </p>
 
 <p align="left">
@@ -20,7 +20,7 @@
 </p>
 
 <p align="left">
-  <a href="viniderp@gmail.com" alt="Gmail">
+  <a href="mailto:viniderp@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=viniderp@gmail.com" /></a>
 
   <a href="https://www.linkedin.com/in/viniqrz" alt="Linkedin">
