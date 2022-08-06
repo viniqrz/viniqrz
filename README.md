@@ -4,7 +4,7 @@
 
 <p align="left"> 
   I'm a passionate full-stack developer from Brazil. Programming got into my life since my teenage and has never left.
-  I'm currently working as a Full-stack Developer in a brazilian company and learning AWS on my spare time.
+  I'm currently working as a Mid-level Full Stack Developer in a brazilian company and learning DevOps on my spare time.
 </p>
 
 <p align="left">
