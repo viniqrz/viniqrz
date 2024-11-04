@@ -3,16 +3,16 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  I'm a passionate full-stack developer from Brazil. Programming got into my life since my teenage and has never left.
-  I'm currently working as a Mid-level Full Stack Developer in a brazilian company and learning DevOps on my spare time.
+  I'm a passionate full-stack developer from Brazil. Programming has been a part of my life since childhood and has never left.
+  I'm working as a Senior Full Stack Developer and learning Data Architecture in my spare time.
 </p>
 
 <p align="left">
-  👾 Languages: <strong>Typescript, Java and Python.</strong>
+  👾 Languages: <strong>Typescript, Java, Golang and Python.</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>React, Nest, SQL and MongoDB</strong>
+  💼 Tools: <strong>React, Nest, Next, Remix, Django, Spring, SQL, and MongoDB</strong>
 </p>
 
 <p align="left">
