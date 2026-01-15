@@ -8,11 +8,11 @@
 </p>
 
 <p align="left">
-  👾 Languages: <strong>Javascript, Typescript, Python, Java and Golang.</strong>
+  👾 Languages: <strong> Javascript, Typescript, Python, Java, and Golang.</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>ReactJS, NestJS, Next, Tailwind, Flask, Flutter, Cursor, OpenAI, LLMs, Remix, Django, Spring, SQL, and MongoDB</strong>
+  💼 Tools: <strong> ReactJS, NestJS, Next, Tailwind, Flask, Flutter, Cursor, OpenAI, AWS, LLMs, Remix, Django, Spring, Postgres, SQL Server, MySQL, DynamoDB, and MongoDB.</strong>
 </p>
 
 <p align="left">
@@ -26,8 +26,4 @@
   <a href="https://www.linkedin.com/in/viniqrz" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniqrz" /></a>
 </p>  
-
-![Vini's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniqrz&hide=stars&theme=dracula&line_height=26px)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniqrz&layout=compact&theme=dracula&card_width=445)](https://github.com/viniqrz)
-
 
