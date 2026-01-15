@@ -4,7 +4,7 @@
 
 <p align="left"> 
   I'm a passionate Software Engineer, coding has been part of my life since childhood and has never left.
-  Currently a Senior Full Stack Engineer and vibe coding on my spare time.
+  Currently a Senior Full Stack Engineer and vibe coding on my spare time. Interested in Blockchain and Web3.
 </p>
 
 <p align="left">
