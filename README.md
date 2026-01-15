@@ -8,11 +8,11 @@
 </p>
 
 <p align="left">
-  👾 Languages: <strong>Javascript, Typescript, Pyhton, Java and Golang.</strong>
+  👾 Languages: <strong>Javascript, Typescript, Python, Java and Golang.</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>ReactJS, NestJS, Next, Tailwind, Flask, Flutter, Remix, Django, Spring, SQL, and MongoDB</strong>
+  💼 Tools: <strong>ReactJS, NestJS, Next, Tailwind, Flask, Flutter, Cursor, OpenAI, LLMs, Remix, Django, Spring, SQL, and MongoDB</strong>
 </p>
 
 <p align="left">
