@@ -12,11 +12,7 @@
 </p>
 
 <p align="left">
-  ☁️ <strong>Focus Areas:</strong> Generative AI, RAG Systems, DeFi Protocols, Smart Contract Security, Tokenization, Distributed Systems, Cloud Architecture.
-</p>
-
-<p align="left">
-  💼 Tools: <strong> Node.js, ReactJS, NestJS, Express, TypeORM, Next, Tailwind, FastAPI, Hardhat, Ethers.js, Wagmi, LangChain, Pinecone, Docker, Flutter, OpenAI API, AWS, LLMs, Remix, Django, Spring, Postgres, DynamoDB, and MongoDB.</strong>
+  💼 Tools: <strong> Node.js, ReactJS, NestJS, Express, TypeORM, Next, Tailwind, FastAPI, Flask, Hardhat, Ethers.js, LangChain, Docker, Flutter, OpenAI API, AWS (ECS, EC2, S3), LLMs, Remix, Django, Spring, Postgres, DynamoDB, and MongoDB.</strong>
 </p>
 
 <h3 align="left">🚀 Recent Projects</h3>
