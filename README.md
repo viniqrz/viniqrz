@@ -8,12 +8,21 @@
 </p>
 
 <p align="left">
-  👾 Languages: <strong> Javascript, Typescript, Python, Java, and Golang.</strong>
+  👾 Languages: <strong> Javascript, Typescript, Python, Java, Golang, and Solidity.</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong> ReactJS, NestJS, Next, Tailwind, Flask, Flutter, Cursor, OpenAI, AWS, LLMs, Remix, Django, Spring, Postgres, SQL Server, MySQL, DynamoDB, and MongoDB.</strong>
+  💼 Tools: <strong> Node.js, ReactJS, NestJS, Express, TypeORM, Next, Tailwind, FastAPI, Hardhat, Docker, Flutter, Cursor, OpenAI, AWS, LLMs, Remix, Django, Spring, Postgres, SQL Server, MySQL, DynamoDB, and MongoDB.</strong>
 </p>
+
+<h3 align="left">🚀 Recent Projects</h3>
+<ul align="left">
+  <li><a href="https://github.com/viniqrz/ai-crypto-wallet"><strong>ai-crypto-wallet</strong></a>: Full-stack DApp with NestJS, Hardhat, and React utilizing AI for analysis.</li>
+  <li><a href="https://github.com/viniqrz/safe-credit-card-checkout"><strong>safe-credit-card-checkout</strong></a>: PCI-DSS compliant payment simulation with E2E encryption using Python & Web Crypto API.</li>
+  <li><a href="https://github.com/viniqrz/tech-news-scraper"><strong>tech-news-scraper</strong></a>: High-performance data pipeline for aggregating tech news.</li>
+  <li><a href="https://github.com/viniqrz/ai-resume-parser-matcher"><strong>ai-resume-parser-matcher</strong></a>: AI-powered resume parser and job matcher using Workers AI.</li>
+  <li><a href="https://github.com/viniqrz/ai-code-review-bot"><strong>ai-code-review-bot</strong></a>: Automated PR analysis and suggestions using LLMs.</li>
+</ul>
 
 <p align="left">
   🧑‍💻  Get in touch with me: ⤵️
@@ -26,4 +35,3 @@
   <a href="https://www.linkedin.com/in/viniqrz" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniqrz" /></a>
 </p>  
-
