@@ -17,7 +17,7 @@
 
 <h3 align="left">🚀 Recent Projects</h3>
 <ul align="left">
-  <li><a href="https://github.com/viniqrz/ai-crypto-wallet"><strong>ai-crypto-wallet</strong></a>: Full-stack DApp with NestJS, Hardhat, and React utilizing AI for analysis.</li>
+  <li><a href="https://github.com/viniqrz/pay-with-crypto-ai"><strong>pay-with-crypto-ai</strong></a>: Crypto-to-Pix Liquidity Bridge (NestJS/React) with Generative UI Theming.</li>
   <li><a href="https://github.com/viniqrz/safe-credit-card-checkout"><strong>safe-credit-card-checkout</strong></a>: PCI-DSS compliant payment simulation with E2E encryption using Python & Web Crypto API.</li>
   <li><a href="https://github.com/viniqrz/tech-news-scraper"><strong>tech-news-scraper</strong></a>: High-performance data pipeline for aggregating tech news.</li>
   <li><a href="https://github.com/viniqrz/ai-resume-parser-matcher"><strong>ai-resume-parser-matcher</strong></a>: AI-powered resume parser and job matcher using Workers AI.</li>
