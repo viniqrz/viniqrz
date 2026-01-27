@@ -18,7 +18,7 @@
 <h3 align="left">🚀 Recent Projects</h3>
 <ul align="left">
   <li><a href="https://github.com/viniqrz/banking-ledger"><strong>banking-ledger</strong></a>: High-velocity double-entry ledger engine (Java/Spring Boot) with pessimistic locking and strict idempotency.</li>
-  <li><a href="https://github.com/viniqrz/pay-with-crypto-ai"><strong>pay-with-crypto-ai</strong></a>: Crypto-to-Pix Liquidity Bridge (NestJS/React) with Generative UI Theming.</li>
+  <li><a href="https://github.com/viniqrz/pay-with-crypto-ai"><strong>pay-with-crypto-ai</strong></a>: Crypto-to-Pix Liquidity Bridge (Node.js/NestJS/React) with Generative UI Theming.</li>
   <li><a href="https://github.com/viniqrz/safe-credit-card-checkout"><strong>safe-credit-card-checkout</strong></a>: PCI-DSS compliant payment simulation with E2E encryption using Python & Web Crypto API.</li>
   <li><a href="https://github.com/viniqrz/tech-news-scraper"><strong>tech-news-scraper</strong></a>: High-performance data pipeline for aggregating tech news.</li>
   <li><a href="https://github.com/viniqrz/ai-resume-parser-matcher"><strong>ai-resume-parser-matcher</strong></a>: AI-powered resume parser and job matcher using Workers AI.</li>
