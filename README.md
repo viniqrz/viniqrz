@@ -3,16 +3,37 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  I'm a passionate Software Engineer, coding has been part of my life since childhood and has never left.
-  Currently a Senior Full Stack Engineer and vibe coding on my spare time. Interested in Blockchain and Web3.
+  I'm a passionate Senior Software Engineer, coding has been part of my life since childhood and has never left.
+  Currently solving the hardest business problems and vibe coding on my spare time. Interested in Blockchain and Web3.
 </p>
 
 <p align="left">
-  👾 Languages: <strong> Javascript, Typescript, Python, Java, Golang, and Solidity.</strong>
+ <strong>I recently wrote a scientific paper about AI and Software Engineering, you can check on my portfolio! 🤖</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong> Node.js, ReactJS, NestJS, Express, TypeORM, Next, Tailwind, FastAPI, Flask, Hardhat, Ethers.js, LangChain, Docker, Flutter, OpenAI API, AWS (ECS, EC2, S3), LLMs, Remix, Django, Spring, Postgres, DynamoDB, and MongoDB.</strong>
+  👾 Languages: TypeScript, JavaScript, Python, Java, Solidity, and Golang.
+</p>
+
+
+<p align="left">
+🛰️ Frameworks & Libraries: React, Node.js, Next.js, NestJS, Express.js, TypeORM, Prisma, FastAPI, Flask, Django, Spring Boot, LangChain, LangGraph, Mastra, Cypress and Playwright.
+</p>
+
+<p align="left">
+💼 Tools: Git, Terraform, CI/CD, Docker, Kubernetes, Amazon Web Services (AWS), EC2, S3, CloudWatch, MCP, Lambda, Claude Code, Cursor, OpenAI API, GitHub Copilot, Codex, GitHub Actions, SQL, NoSQL, MySQL, PostgreSQL, MS SQL Server, Apache Kafka, DynamoDB, API Gateway, DocumentDB, Elasticsearch, Redis, Terragrunt, MongoDB, Linux, CLI, Google ADK, HTTP, Markdown, OpenTelemetry, HTML5 and CSS3.
+</p>
+
+<p align="left">
+🛸 Domains: Credit Cards, Sales, Customer Service, Instant Payments, Fintech, PIX, Insurance, Finance, Health, Pets, Marketing, E-commerce, Banking, Investments Platform, CRMs, ERPs, KYC, AI, DeFi, Crypto and Blockchain.
+</p>
+
+<p align="left">
+🚀 Methodologies: Agile, SCRUM, Kanban, XP, Lean, SOLID, DRY, CS Fundamentals, Spec-driven development (SDD), Domain-driven design (DDD), and Test-driven development (TDD).
+</p>
+
+<p align="left">
+🌎 Concepts: Caching (Cache), RESTful, Retrieval-Augmented Generation (RAG), Object-oriented programming (OOP), Large Language Models (LLMs), query optimization, design patterns, concurrency, idempotency, fintech, data migrations, AI Agents, serverless, DeFi, stablecoins, Web3, web scraping, JWT tokens, web crawlers, distributed systems, and web automation.
 </p>
 
 <h3 align="left">🚀 Recent Projects</h3>
