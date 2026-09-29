@@ -25,7 +25,7 @@
 </p>
 
 <p align="left">
-🛸 Domains: Credit Cards, Sales, Customer Service, Instant Payments, Fintech, PIX, Insurance, Finance, Health, Pets, Marketing, E-commerce, Banking, Investments Platform, CRMs, ERPs, KYC, AI, DeFi, Crypto and Blockchain.
+🛸 Domains: Credit Cards, Sales, Customer Service, Instant Payments, Fintech, PIX, Insurance, Finance, Health, Pets, Marketing, E-commerce, Banking, Investments Platform, Accounting, Payroll, Taxes, CRMs, ERPs, KYC, AI, DeFi, Crypto and Blockchain.
 </p>
 
 <p align="left">
