@@ -29,11 +29,11 @@
 </p>
 
 <p align="left">
-🚀 Methodologies: Agile, SCRUM, Kanban, XP, Lean, SOLID, DRY, CS Fundamentals, Spec-driven development (SDD), Domain-driven design (DDD), and Test-driven development (TDD).
+🚀 Methodologies: Agile, SCRUM, Kanban, ADLC, SDLC, XP, Lean, DevOps, SOLID, DRY, CS Fundamentals, Spec-driven development (SDD), Domain-driven design (DDD), and Test-driven development (TDD).
 </p>
 
 <p align="left">
-🌎 Concepts: Caching (Cache), RESTful, Retrieval-Augmented Generation (RAG), Object-oriented programming (OOP), Large Language Models (LLMs), query optimization, design patterns, concurrency, idempotency, fintech, data migrations, AI Agents, serverless, DeFi, stablecoins, Web3, web scraping, JWT tokens, web crawlers, distributed systems, and web automation.
+🌎 Concepts: Caching (Cache), RESTful, Retrieval-Augmented Generation (RAG), Object-oriented programming (OOP), Large Language Models (LLMs), query optimization, design patterns, concurrency, idempotency, fintech, data migrations, AI Agents, serverless, DeFi, stablecoins, Web3, Web Scraping, Full-stack (Full Stack), Back-end (Backend), Front-end, JWT tokens, web crawlers, distributed systems, and web automation.
 </p>
 
 <h3 align="left">🚀 Recent Projects</h3>
